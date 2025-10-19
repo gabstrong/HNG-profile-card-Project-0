@@ -40,14 +40,15 @@ It displays a user’s name, bio, avatar, social links, hobbies, dislikes, and t
 ## 🚀 Live Demo
 
 View the live site here:
-👉 [https://taupe-jalebi-45dd8e.netlify.app](https://taupe-jalebi-45dd8e.netlify.app)
+👉 [https://profile-card-project0.netlify.app](https://profile-card-project0.netlify.app)
 
 ---
 
 ## 📸 Screenshot
 
 ![Profile Card Preview](./screenshot.png)
-dont av dis
+<img width="1366" height="768" alt="2025-10-19 05-00-20-65" src="https://github.com/user-attachments/assets/6dd6c823-cd88-4e86-8104-c033ad0c5452" />
+
 
 ---
 
